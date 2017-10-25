@@ -1,0 +1,2376 @@
+,Country,Year,Net_Migration
+0,Afghanistan,2012,473007
+1,Afghanistan,2007,-677497
+2,Afghanistan,2002,804120
+3,Afghanistan,1997,-379474
+4,Afghanistan,1992,2227474
+5,Afghanistan,1987,-1484185
+6,Afghanistan,1982,-3418299
+7,Afghanistan,1977,-1117459
+8,Afghanistan,1972,-20000
+9,Afghanistan,1967,-20000
+10,Afghanistan,1962,-20000
+11,Albania,2012,-91750
+12,Albania,2007,-252926
+13,Albania,2002,-175406
+14,Albania,1997,-179606
+15,Albania,1992,-443212
+16,Albania,1987,-99
+17,Albania,1982,-99
+18,Albania,1977,-99
+19,Albania,1972,-99
+20,Albania,1967,-99
+21,Albania,1962,-99
+22,Algeria,2012,-143268
+23,Algeria,2007,-357340
+24,Algeria,2002,-205228
+25,Algeria,1997,-164413
+26,Algeria,1992,-128679
+27,Algeria,1987,-93302
+28,Algeria,1982,-81020
+29,Algeria,1977,-224833
+30,Algeria,1972,-247822
+31,Algeria,1967,-121335
+32,Algeria,1962,-284266
+33,Angola,2012,102322
+34,Angola,2007,85286
+35,Angola,2002,172594
+36,Angola,1997,-126701
+37,Angola,1992,142811
+38,Angola,1987,-150282
+39,Angola,1982,234149
+40,Angola,1977,11455
+41,Angola,1972,-80955
+42,Angola,1967,-201155
+43,Angola,1962,-135000
+44,Antigua and Barbuda,2012,-56
+45,Antigua and Barbuda,2007,-92
+46,Antigua and Barbuda,2002,-282
+47,Antigua and Barbuda,1997,4421
+48,Antigua and Barbuda,1992,2617
+49,Antigua and Barbuda,1987,-7629
+50,Antigua and Barbuda,1982,-8840
+51,Antigua and Barbuda,1977,-3492
+52,Antigua and Barbuda,1972,-2874
+53,Antigua and Barbuda,1967,-1625
+54,Antigua and Barbuda,1962,-1703
+55,Arab World,2012,-1168750
+56,Arab World,2007,4413525
+57,Arab World,2002,396646
+58,Arab World,1997,-1432980
+59,Arab World,1992,293332
+60,Arab World,1987,-1021606
+61,Arab World,1982,103693
+62,Arab World,1977,1697107
+63,Arab World,1972,-876979
+64,Arab World,1967,-849826
+65,Arab World,1962,-485569
+66,Argentina,2012,30000
+67,Argentina,2007,-84998
+68,Argentina,2002,-90000
+69,Argentina,1997,-80000
+70,Argentina,1992,29999
+71,Argentina,1987,160002
+72,Argentina,1982,139999
+73,Argentina,1977,-230001
+74,Argentina,1972,290000
+75,Argentina,1967,130001
+76,Argentina,1962,122001
+77,Armenia,2012,-9876
+78,Armenia,2007,-136009
+79,Armenia,2002,-143966
+80,Armenia,1997,-223873
+81,Armenia,1992,-496288
+82,Armenia,1987,-58313
+83,Armenia,1982,-22331
+84,Armenia,1977,35724
+85,Armenia,1972,86404
+86,Armenia,1967,103399
+87,Armenia,1962,70335
+88,Aruba,2012,1253
+89,Aruba,2007,-441
+90,Aruba,2002,6263
+91,Aruba,1997,6926
+92,Aruba,1992,14218
+93,Aruba,1987,-5194
+94,Aruba,1982,-1921
+95,Aruba,1977,-5470
+96,Aruba,1972,-3537
+97,Aruba,1967,-4275
+98,Aruba,1962,-4323
+99,Australia,2012,1023107
+100,Australia,2007,1132688
+101,Australia,2002,575104
+102,Australia,1997,377552
+103,Australia,1992,351078
+104,Australia,1987,666233
+105,Australia,1982,456227
+106,Australia,1977,235744
+107,Australia,1972,264129
+108,Australia,1967,852782
+109,Australia,1962,382989
+110,Austria,2012,147089
+111,Austria,2007,153763
+112,Austria,2002,178117
+113,Austria,1997,65082
+114,Austria,1992,227841
+115,Austria,1987,110999
+116,Austria,1982,18002
+117,Austria,1977,5502
+118,Austria,1972,82001
+119,Austria,1967,50401
+120,Austria,1962,15996
+121,Azerbaijan,2012,-16125
+122,Azerbaijan,2007,-96798
+123,Azerbaijan,2002,10655
+124,Azerbaijan,1997,-119785
+125,Azerbaijan,1992,-105573
+126,Azerbaijan,1987,-118757
+127,Azerbaijan,1982,-40822
+128,Azerbaijan,1977,-28122
+129,Azerbaijan,1972,14620
+130,Azerbaijan,1967,50466
+131,Azerbaijan,1962,66429
+132,"Bahamas, The",2012,9672
+133,"Bahamas, The",2007,14363
+134,"Bahamas, The",2002,15483
+135,"Bahamas, The",1997,-3097
+136,"Bahamas, The",1992,-395
+137,"Bahamas, The",1987,-1099
+138,"Bahamas, The",1982,180
+139,"Bahamas, The",1977,2791
+140,"Bahamas, The",1972,887
+141,"Bahamas, The",1967,14080
+142,"Bahamas, The",1962,14357
+143,Bahrain,2012,29915
+144,Bahrain,2007,316544
+145,Bahrain,2002,133500
+146,Bahrain,1997,43086
+147,Bahrain,1992,5480
+148,Bahrain,1987,12899
+149,Bahrain,1982,3195
+150,Bahrain,1977,48962
+151,Bahrain,1972,19123
+152,Bahrain,1967,-7199
+153,Bahrain,1962,-4341
+154,Bangladesh,2012,-2226481
+155,Bangladesh,2007,-3570954
+156,Bangladesh,2002,-1700003
+157,Bangladesh,1997,-756121
+158,Bangladesh,1992,-853717
+159,Bangladesh,1987,-219363
+160,Bangladesh,1982,-837319
+161,Bangladesh,1977,-1101492
+162,Bangladesh,1972,-3028254
+163,Bangladesh,1967,-161822
+164,Bangladesh,1962,-142378
+165,Barbados,2012,2180
+166,Barbados,2007,2050
+167,Barbados,2002,-77
+168,Barbados,1997,-1323
+169,Barbados,1992,-3263
+170,Barbados,1987,-4077
+171,Barbados,1982,-5589
+172,Barbados,1977,-3595
+173,Barbados,1972,-5433
+174,Barbados,1967,-11880
+175,Barbados,1962,-15903
+176,Belarus,2012,120535
+177,Belarus,2007,63933
+178,Belarus,2002,-6382
+179,Belarus,1997,56146
+180,Belarus,1992,-63057
+181,Belarus,1987,-6309
+182,Belarus,1982,47114
+183,Belarus,1977,10001
+184,Belarus,1972,23022
+185,Belarus,1967,57574
+186,Belarus,1962,-125387
+187,Belgium,2012,269998
+188,Belgium,2007,267204
+189,Belgium,2002,247560
+190,Belgium,1997,67177
+191,Belgium,1992,115391
+192,Belgium,1987,44794
+193,Belgium,1982,13460
+194,Belgium,1977,70243
+195,Belgium,1972,39275
+196,Belgium,1967,86168
+197,Belgium,1962,71911
+198,Belize,2012,7594
+199,Belize,2007,8722
+200,Belize,2002,5797
+201,Belize,1997,11909
+202,Belize,1992,-9011
+203,Belize,1987,-5404
+204,Belize,1982,-5332
+205,Belize,1977,-13542
+206,Belize,1972,-10665
+207,Belize,1967,-2957
+208,Belize,1962,-2418
+209,Benin,2012,-10000
+210,Benin,2007,50000
+211,Benin,2002,98831
+212,Benin,1997,-29287
+213,Benin,1992,105000
+214,Benin,1987,-8723
+215,Benin,1982,-10848
+216,Benin,1977,-19393
+217,Benin,1972,-24845
+218,Benin,1967,-23742
+219,Benin,1962,-24295
+220,Bhutan,2012,10000
+221,Bhutan,2007,16829
+222,Bhutan,2002,34976
+223,Bhutan,1997,143
+224,Bhutan,1992,-85887
+225,Bhutan,1987,1595
+226,Bhutan,1982,797
+227,Bhutan,1977,15000
+228,Bhutan,1972,20000
+229,Bhutan,1967,10000
+230,Bhutan,1962,5000
+231,Bolivia,2012,-61794
+232,Bolivia,2007,-84003
+233,Bolivia,2002,-89995
+234,Bolivia,1997,-83002
+235,Bolivia,1992,-90997
+236,Bolivia,1987,-106998
+237,Bolivia,1982,-87002
+238,Bolivia,1977,-60007
+239,Bolivia,1972,-42998
+240,Bolivia,1967,-37001
+241,Bolivia,1962,-34003
+242,Bosnia and Herzegovina,2012,-2506
+243,Bosnia and Herzegovina,2007,3677
+244,Bosnia and Herzegovina,2002,34820
+245,Bosnia and Herzegovina,1997,-160020
+246,Bosnia and Herzegovina,1992,-748374
+247,Bosnia and Herzegovina,1987,-56374
+248,Bosnia and Herzegovina,1982,-29999
+249,Bosnia and Herzegovina,1977,-74999
+250,Bosnia and Herzegovina,1972,-74999
+251,Bosnia and Herzegovina,1967,-99999
+252,Bosnia and Herzegovina,1962,-50002
+253,Botswana,2012,20000
+254,Botswana,2007,18730
+255,Botswana,2002,21278
+256,Botswana,1997,24546
+257,Botswana,1992,17864
+258,Botswana,1987,5803
+259,Botswana,1982,601
+260,Botswana,1977,14845
+261,Botswana,1972,2326
+262,Botswana,1967,-6020
+263,Botswana,1962,-15000
+264,Brazil,2012,15924
+265,Brazil,2007,0
+266,Brazil,2002,0
+267,Brazil,1997,0
+268,Brazil,1992,0
+269,Brazil,1987,0
+270,Brazil,1982,0
+271,Brazil,1977,0
+272,Brazil,1972,0
+273,Brazil,1967,0
+274,Brazil,1962,0
+275,Brunei Darussalam,2012,2102
+276,Brunei Darussalam,2007,2441
+277,Brunei Darussalam,2002,2294
+278,Brunei Darussalam,1997,1852
+279,Brunei Darussalam,1992,1346
+280,Brunei Darussalam,1987,243
+281,Brunei Darussalam,1982,1827
+282,Brunei Darussalam,1977,5624
+283,Brunei Darussalam,1972,8005
+284,Brunei Darussalam,1967,10747
+285,Brunei Darussalam,1962,5209
+286,Bulgaria,2012,-50000
+287,Bulgaria,2007,-83002
+288,Bulgaria,2002,-83002
+289,Bulgaria,1997,-106602
+290,Bulgaria,1992,-356464
+291,Bulgaria,1987,-184143
+292,Bulgaria,1982,-22346
+293,Bulgaria,1977,-94868
+294,Bulgaria,1972,-43396
+295,Bulgaria,1967,-6423
+296,Bulgaria,1962,-1437
+297,Burkina Faso,2012,-125000
+298,Burkina Faso,2007,-125000
+299,Burkina Faso,2002,-125000
+300,Burkina Faso,1997,-137499
+301,Burkina Faso,1992,-150001
+302,Burkina Faso,1987,-183699
+303,Burkina Faso,1982,-217400
+304,Burkina Faso,1977,-217400
+305,Burkina Faso,1972,-170263
+306,Burkina Faso,1967,-144723
+307,Burkina Faso,1962,-144723
+308,Burundi,2012,40000
+309,Burundi,2007,163733
+310,Burundi,2002,112532
+311,Burundi,1997,-404999
+312,Burundi,1992,-250000
+313,Burundi,1987,-44320
+314,Burundi,1982,-86002
+315,Burundi,1977,-150288
+316,Burundi,1972,-260594
+317,Burundi,1967,-57900
+318,Burundi,1962,-84989
+319,Cambodia,2012,-149999
+320,Cambodia,2007,-295987
+321,Cambodia,2002,-35156
+322,Cambodia,1997,348495
+323,Cambodia,1992,409414
+324,Cambodia,1987,-78022
+325,Cambodia,1982,-88854
+326,Cambodia,1977,-84999
+327,Cambodia,1972,-125000
+328,Cambodia,1967,-225001
+329,Cambodia,1962,0
+330,Cameroon,2012,-60000
+331,Cameroon,2007,-90000
+332,Cameroon,2002,-90000
+333,Cameroon,1997,-80000
+334,Cameroon,1992,-80000
+335,Cameroon,1987,-65000
+336,Cameroon,1982,-55000
+337,Cameroon,1977,-8000
+338,Cameroon,1972,-2500
+339,Cameroon,1967,-1000
+340,Cameroon,1962,0
+341,Canada,2012,1175863
+342,Canada,2007,1229905
+343,Canada,2002,1026702
+344,Canada,1997,761611
+345,Canada,1992,698764
+346,Canada,1987,875013
+347,Canada,1982,376129
+348,Canada,1977,438027
+349,Canada,1972,771526
+350,Canada,1967,608528
+351,Canada,1962,178066
+352,Cape Verde,2012,-11052
+353,Cape Verde,2007,-25866
+354,Cape Verde,2002,-9859
+355,Cape Verde,1997,-2438
+356,Cape Verde,1992,-6376
+357,Cape Verde,1987,-27757
+358,Cape Verde,1982,-20313
+359,Cape Verde,1977,-27982
+360,Cape Verde,1972,-34907
+361,Cape Verde,1967,4267
+362,Cape Verde,1962,-1167
+363,Central African Republic,2012,10000
+364,Central African Republic,2007,5000
+365,Central African Republic,2002,-45000
+366,Central African Republic,1997,11293
+367,Central African Republic,1992,37392
+368,Central African Republic,1987,-40982
+369,Central African Republic,1982,40165
+370,Central African Republic,1977,-1000
+371,Central African Republic,1972,-20075
+372,Central African Republic,1967,13145
+373,Central African Republic,1962,11930
+374,Chad,2012,100000
+375,Chad,2007,70000
+376,Chad,2002,218966
+377,Chad,1997,69444
+378,Chad,1992,-10374
+379,Chad,1987,1418
+380,Chad,1982,-131245
+381,Chad,1977,-175500
+382,Chad,1972,-49050
+383,Chad,1967,-40950
+384,Chad,1962,-5000
+385,Channel Islands,2012,3654
+386,Channel Islands,2007,4479
+387,Channel Islands,2002,4592
+388,Channel Islands,1997,3778
+389,Channel Islands,1992,2120
+390,Channel Islands,1987,6085
+391,Channel Islands,1982,5380
+392,Channel Islands,1977,1726
+393,Channel Islands,1972,4250
+394,Channel Islands,1967,3880
+395,Channel Islands,1962,2934
+396,Chile,2012,201289
+397,Chile,2007,139345
+398,Chile,2002,93789
+399,Chile,1997,71640
+400,Chile,1992,62545
+401,Chile,1987,7909
+402,Chile,1982,-37305
+403,Chile,1977,-50998
+404,Chile,1972,-51769
+405,Chile,1967,-42595
+406,Chile,1962,-33751
+407,China,2012,-1800000
+408,China,2007,-2202103
+409,China,2002,-2144051
+410,China,1997,-507000
+411,China,1992,-823657
+412,China,1987,-154256
+413,China,1982,-258072
+414,China,1977,-428313
+415,China,1972,-1113125
+416,China,1967,-12737
+417,China,1962,-1058832
+418,Colombia,2012,-144998
+419,Colombia,2007,-143000
+420,Colombia,2002,-159003
+421,Colombia,1997,-190000
+422,Colombia,1992,-223998
+423,Colombia,1987,-254001
+424,Colombia,1982,-273997
+425,Colombia,1977,-286998
+426,Colombia,1972,-289998
+427,Colombia,1967,-281000
+428,Colombia,1962,-253998
+429,Comoros,2012,-10000
+430,Comoros,2007,-10000
+431,Comoros,2002,-10000
+432,Comoros,1997,-6000
+433,Comoros,1992,-3000
+434,Comoros,1987,-4500
+435,Comoros,1982,-4500
+436,Comoros,1977,10000
+437,Comoros,1972,-5500
+438,Comoros,1967,-5500
+439,Comoros,1962,-8491
+440,"Congo, Dem. Rep.",2012,-95920
+441,"Congo, Dem. Rep.",2007,-43426
+442,"Congo, Dem. Rep.",2002,-241564
+443,"Congo, Dem. Rep.",1997,-1006384
+444,"Congo, Dem. Rep.",1992,1202404
+445,"Congo, Dem. Rep.",1987,74515
+446,"Congo, Dem. Rep.",1982,-446860
+447,"Congo, Dem. Rep.",1977,100685
+448,"Congo, Dem. Rep.",1972,27450
+449,"Congo, Dem. Rep.",1967,241910
+450,"Congo, Dem. Rep.",1962,122650
+451,"Congo, Rep.",2012,-60000
+452,"Congo, Rep.",2007,49872
+453,"Congo, Rep.",2002,-13257
+454,"Congo, Rep.",1997,35300
+455,"Congo, Rep.",1992,15531
+456,"Congo, Rep.",1987,1915
+457,"Congo, Rep.",1982,2097
+458,"Congo, Rep.",1977,-7408
+459,"Congo, Rep.",1972,6945
+460,"Congo, Rep.",1967,500
+461,"Congo, Rep.",1962,0
+462,Costa Rica,2012,19658
+463,Costa Rica,2007,30339
+464,Costa Rica,2002,41792
+465,Costa Rica,1997,89527
+466,Costa Rica,1992,69202
+467,Costa Rica,1987,17417
+468,Costa Rica,1982,18876
+469,Costa Rica,1977,17425
+470,Costa Rica,1972,12638
+471,Costa Rica,1967,7827
+472,Costa Rica,1962,7905
+473,Cote d'Ivoire,2012,50000
+474,Cote d'Ivoire,2007,-220000
+475,Cote d'Ivoire,2002,-370000
+476,Cote d'Ivoire,1997,180000
+477,Cote d'Ivoire,1992,375000
+478,Cote d'Ivoire,1987,325000
+479,Cote d'Ivoire,1982,430000
+480,Cote d'Ivoire,1977,420000
+481,Cote d'Ivoire,1972,400000
+482,Cote d'Ivoire,1967,300000
+483,Cote d'Ivoire,1962,200000
+484,Croatia,2012,-20000
+485,Croatia,2007,-22532
+486,Croatia,2002,-2580
+487,Croatia,1997,-188129
+488,Croatia,1992,-143579
+489,Croatia,1987,26145
+490,Croatia,1982,54369
+491,Croatia,1977,18681
+492,Croatia,1972,-18403
+493,Croatia,1967,-1225
+494,Croatia,1962,1854
+495,Cuba,2012,-79999
+496,Cuba,2007,-193998
+497,Cuba,2002,-149998
+498,Cuba,1997,-163997
+499,Cuba,1992,-120006
+500,Cuba,1987,-69999
+501,Cuba,1982,-270000
+502,Cuba,1977,-160000
+503,Cuba,1972,-190000
+504,Cuba,1967,-250000
+505,Cuba,1962,-205000
+506,Cyprus,2012,35000
+507,Cyprus,2007,44166
+508,Cyprus,2002,61830
+509,Cyprus,1997,53260
+510,Cyprus,1992,43195
+511,Cyprus,1987,17167
+512,Cyprus,1982,-27634
+513,Cyprus,1977,-1215
+514,Cyprus,1972,3053
+515,Cyprus,1967,-7843
+516,Cyprus,1962,-43025
+517,Czech Republic,2012,29999
+518,Czech Republic,2007,250889
+519,Czech Republic,2002,47402
+520,Czech Republic,1997,46002
+521,Czech Republic,1992,29999
+522,Czech Republic,1987,5671
+523,Czech Republic,1982,-52946
+524,Czech Republic,1977,9999
+525,Czech Republic,1972,9999
+526,Czech Republic,1967,-129099
+527,Czech Republic,1962,24999
+528,Denmark,2012,96839
+529,Denmark,2007,87989
+530,Denmark,2002,46306
+531,Denmark,1997,74568
+532,Denmark,1992,65466
+533,Denmark,1987,32839
+534,Denmark,1982,9319
+535,Denmark,1977,14925
+536,Denmark,1972,23256
+537,Denmark,1967,21866
+538,Denmark,1962,2256
+539,Djibouti,2012,-15996
+540,Djibouti,2007,-19965
+541,Djibouti,2002,-18151
+542,Djibouti,1997,-16501
+543,Djibouti,1992,-15000
+544,Djibouti,1987,89998
+545,Djibouti,1982,9999
+546,Djibouti,1977,91193
+547,Djibouti,1972,34997
+548,Djibouti,1967,25000
+549,Djibouti,1962,18000
+550,Dominican Republic,2012,-153010
+551,Dominican Republic,2007,-153773
+552,Dominican Republic,2002,-152553
+553,Dominican Republic,1997,-150146
+554,Dominican Republic,1992,-144154
+555,Dominican Republic,1987,-134470
+556,Dominican Republic,1982,-118102
+557,Dominican Republic,1977,-87098
+558,Dominican Republic,1972,-70824
+559,Dominican Republic,1967,-56172
+560,Dominican Republic,1962,-43490
+561,East Asia & Pacific (all income levels),2012,-1457489
+562,East Asia & Pacific (all income levels),2007,-5719538
+563,East Asia & Pacific (all income levels),2002,-2992651
+564,East Asia & Pacific (all income levels),1997,-385097
+565,East Asia & Pacific (all income levels),1992,-2395809
+566,East Asia & Pacific (all income levels),1987,392043
+567,East Asia & Pacific (all income levels),1982,713290
+568,East Asia & Pacific (all income levels),1977,-1454415
+569,East Asia & Pacific (all income levels),1972,-808879
+570,East Asia & Pacific (all income levels),1967,628975
+571,East Asia & Pacific (all income levels),1962,-479477
+572,East Asia & Pacific (developing only),2012,-3728059
+573,East Asia & Pacific (developing only),2007,-8308340
+574,East Asia & Pacific (developing only),2002,-4975250
+575,East Asia & Pacific (developing only),1997,-1362174
+576,East Asia & Pacific (developing only),1992,-3110397
+577,East Asia & Pacific (developing only),1987,-390019
+578,East Asia & Pacific (developing only),1982,-525665
+579,East Asia & Pacific (developing only),1977,-1912183
+580,East Asia & Pacific (developing only),1972,-1239154
+581,East Asia & Pacific (developing only),1967,-582028
+582,East Asia & Pacific (developing only),1962,-1086544
+583,Ecuador,2012,-38001
+584,Ecuador,2007,-44999
+585,Ecuador,2002,-120002
+586,Ecuador,1997,-69999
+587,Ecuador,1992,-19000
+588,Ecuador,1987,-16998
+589,Ecuador,1982,-14001
+590,Ecuador,1977,-7198
+591,Ecuador,1972,-5499
+592,Ecuador,1967,-5500
+593,Ecuador,1962,-9002
+594,"Egypt, Arab Rep.",2012,-215681
+595,"Egypt, Arab Rep.",2007,-279228
+596,"Egypt, Arab Rep.",2002,-67708
+597,"Egypt, Arab Rep.",1997,-204143
+598,"Egypt, Arab Rep.",1992,-452508
+599,"Egypt, Arab Rep.",1987,-205428
+600,"Egypt, Arab Rep.",1982,-389781
+601,"Egypt, Arab Rep.",1977,-563569
+602,"Egypt, Arab Rep.",1972,-546796
+603,"Egypt, Arab Rep.",1967,-239700
+604,"Egypt, Arab Rep.",1962,-50100
+605,El Salvador,2012,-240415
+606,El Salvador,2007,-285671
+607,El Salvador,2002,-312786
+608,El Salvador,1997,-326853
+609,El Salvador,1992,-265152
+610,El Salvador,1987,-256685
+611,El Salvador,1982,-231749
+612,El Salvador,1977,-164230
+613,El Salvador,1972,-90977
+614,El Salvador,1967,-44306
+615,El Salvador,1962,-24031
+616,Equatorial Guinea,2012,20000
+617,Equatorial Guinea,2007,20000
+618,Equatorial Guinea,2002,25000
+619,Equatorial Guinea,1997,20000
+620,Equatorial Guinea,1992,15000
+621,Equatorial Guinea,1987,15000
+622,Equatorial Guinea,1982,65000
+623,Equatorial Guinea,1977,-30000
+624,Equatorial Guinea,1972,-70000
+625,Equatorial Guinea,1967,0
+626,Equatorial Guinea,1962,0
+627,Eritrea,2012,-160001
+628,Eritrea,2007,-160001
+629,Eritrea,2002,110001
+630,Eritrea,1997,-70000
+631,Eritrea,1992,-400002
+632,Eritrea,1987,-40000
+633,Eritrea,1982,10000
+634,Eritrea,1977,10000
+635,Eritrea,1972,10000
+636,Eritrea,1967,4999
+637,Eritrea,1962,6997
+638,Estonia,2012,-11850
+639,Estonia,2007,-15151
+640,Estonia,2002,-18406
+641,Estonia,1997,-1197
+642,Estonia,1992,-111876
+643,Estonia,1987,15497
+644,Estonia,1982,25900
+645,Estonia,1977,30510
+646,Estonia,1972,30581
+647,Estonia,1967,41204
+648,Estonia,1962,43228
+649,Ethiopia,2012,-60001
+650,Ethiopia,2007,-50132
+651,Ethiopia,2002,-83182
+652,Ethiopia,1997,-155577
+653,Ethiopia,1992,1445274
+654,Ethiopia,1987,780074
+655,Ethiopia,1982,250001
+656,Ethiopia,1977,-2024797
+657,Ethiopia,1972,-59597
+658,Ethiopia,1967,-42182
+659,Ethiopia,1962,-19999
+660,Euro area,2012,1575613
+661,Euro area,2007,4638063
+662,Euro area,2002,6201684
+663,Euro area,1997,2840300
+664,Euro area,1992,4907571
+665,Euro area,1987,2441366
+666,Euro area,1982,745736
+667,Euro area,1977,1627705
+668,Euro area,1972,2255999
+669,Euro area,1967,247447
+670,Euro area,1962,974732
+671,Europe & Central Asia (all income levels),2012,5547385
+672,Europe & Central Asia (all income levels),2007,7418656
+673,Europe & Central Asia (all income levels),2002,6969397
+674,Europe & Central Asia (all income levels),1997,480855
+675,Europe & Central Asia (all income levels),1992,1950916
+676,Europe & Central Asia (all income levels),1987,949003
+677,Europe & Central Asia (all income levels),1982,833519
+678,Europe & Central Asia (all income levels),1977,1429251
+679,Europe & Central Asia (all income levels),1972,2318325
+680,Europe & Central Asia (all income levels),1967,377468
+681,Europe & Central Asia (all income levels),1962,1533274
+682,Europe & Central Asia (developing only),2012,2121162
+683,Europe & Central Asia (developing only),2007,58963
+684,Europe & Central Asia (developing only),2002,-793952
+685,Europe & Central Asia (developing only),1997,-2809431
+686,Europe & Central Asia (developing only),1992,-3419220
+687,Europe & Central Asia (developing only),1987,-1406767
+688,Europe & Central Asia (developing only),1982,237484
+689,Europe & Central Asia (developing only),1977,-202389
+690,Europe & Central Asia (developing only),1972,31783
+691,Europe & Central Asia (developing only),1967,224818
+692,Europe & Central Asia (developing only),1962,10238
+693,European Union,2012,2324066
+694,European Union,2007,5884417
+695,European Union,2002,6933624
+696,European Union,1997,2448237
+697,European Union,1992,4201189
+698,European Union,1987,1796483
+699,European Union,1982,265084
+700,European Union,1977,1548770
+701,European Union,1972,2173816
+702,European Union,1967,23657
+703,European Union,1962,1217105
+704,Fiji,2012,-28720
+705,Fiji,2007,-28754
+706,Fiji,2002,-61797
+707,Fiji,1997,-42260
+708,Fiji,1992,-35796
+709,Fiji,1987,-66875
+710,Fiji,1982,-11628
+711,Fiji,1977,-20709
+712,Fiji,1972,-12506
+713,Fiji,1967,-9567
+714,Fiji,1962,2451
+715,Finland,2012,107409
+716,Finland,2007,71143
+717,Finland,2002,31935
+718,Finland,1997,22154
+719,Finland,1992,47223
+720,Finland,1987,18268
+721,Finland,1982,26181
+722,Finland,1977,-29377
+723,Finland,1972,28880
+724,Finland,1967,-97937
+725,Finland,1962,-64984
+726,France,2012,331555
+727,France,2007,480787
+728,France,2002,739395
+729,France,1997,188966
+730,France,1992,303416
+731,France,1987,481869
+732,France,1982,268131
+733,France,1977,146855
+734,France,1972,805181
+735,France,1967,416217
+736,France,1962,1466682
+737,French Polynesia,2012,-500
+738,French Polynesia,2007,-3463
+739,French Polynesia,2002,77
+740,French Polynesia,1997,3483
+741,French Polynesia,1992,-4324
+742,French Polynesia,1987,241
+743,French Polynesia,1982,3650
+744,French Polynesia,1977,3844
+745,French Polynesia,1972,4388
+746,French Polynesia,1967,3344
+747,French Polynesia,1962,3190
+748,Gabon,2012,5000
+749,Gabon,2007,9566
+750,Gabon,2002,9566
+751,Gabon,1997,9566
+752,Gabon,1992,4999
+753,Gabon,1987,4999
+754,Gabon,1982,4999
+755,Gabon,1977,4999
+756,Gabon,1972,2999
+757,Gabon,1967,16188
+758,Gabon,1962,9410
+759,"Gambia, The",2012,-13476
+760,"Gambia, The",2007,-13742
+761,"Gambia, The",2002,-13742
+762,"Gambia, The",1997,-26418
+763,"Gambia, The",1992,-14801
+764,"Gambia, The",1987,48392
+765,"Gambia, The",1982,19475
+766,"Gambia, The",1977,-3380
+767,"Gambia, The",1972,9392
+768,"Gambia, The",1967,118
+769,"Gambia, The",1962,-3232
+770,Georgia,2012,-296323
+771,Georgia,2007,-289534
+772,Georgia,2002,-309021
+773,Georgia,1997,-390036
+774,Georgia,1992,-544069
+775,Georgia,1987,-61577
+776,Georgia,1982,-18616
+777,Georgia,1977,-78920
+778,Georgia,1972,-32156
+779,Georgia,1967,24146
+780,Georgia,1962,51113
+781,Germany,2012,1249998
+782,Germany,2007,31640
+783,Germany,2002,1217
+784,Germany,1997,744288
+785,Germany,1992,3232654
+786,Germany,1987,1710683
+787,Germany,1982,23
+788,Germany,1977,288662
+789,Germany,1972,714153
+790,Germany,1967,917575
+791,Germany,1962,666962
+792,Ghana,2012,-49999
+793,Ghana,2007,189259
+794,Ghana,2002,165518
+795,Ghana,1997,-112636
+796,Ghana,1992,-16285
+797,Ghana,1987,-30003
+798,Ghana,1982,206001
+799,Ghana,1977,-563999
+800,Ghana,1972,-164002
+801,Ghana,1967,-361999
+802,Ghana,1962,0
+803,Greece,2012,-136299
+804,Greece,2007,80157
+805,Greece,2002,113586
+806,Greece,1997,297431
+807,Greece,1992,464636
+808,Greece,1987,158887
+809,Greece,1982,114020
+810,Greece,1977,330211
+811,Greece,1972,10771
+812,Greece,1967,-99122
+813,Greece,1962,-145243
+814,Grenada,2012,-4274
+815,Grenada,2007,-4274
+816,Grenada,2002,-4132
+817,Grenada,1997,-4912
+818,Grenada,1992,-3923
+819,Grenada,1987,-15001
+820,Grenada,1982,-288
+821,Grenada,1977,-12867
+822,Grenada,1972,-11426
+823,Grenada,1967,-9319
+824,Grenada,1962,-8968
+825,Guam,2012,0
+826,Guam,2007,-9776
+827,Guam,2002,-9556
+828,Guam,1997,-4116
+829,Guam,1992,1739
+830,Guam,1987,99
+831,Guam,1982,109
+832,Guam,1977,-1511
+833,Guam,1972,-2131
+834,Guam,1967,-1442
+835,Guam,1962,-2905
+836,Guatemala,2012,-120001
+837,Guatemala,2007,-132000
+838,Guatemala,2002,-199998
+839,Guatemala,1997,-280001
+840,Guatemala,1992,-260001
+841,Guatemala,1987,-250001
+842,Guatemala,1982,-220003
+843,Guatemala,1977,-180001
+844,Guatemala,1972,-81000
+845,Guatemala,1967,-40498
+846,Guatemala,1962,-19999
+847,Guinea,2012,-10000
+848,Guinea,2007,-55577
+849,Guinea,2002,-368004
+850,Guinea,1997,-246148
+851,Guinea,1992,800000
+852,Guinea,1987,162450
+853,Guinea,1982,-38000
+854,Guinea,1977,-353000
+855,Guinea,1972,-275000
+856,Guinea,1967,-18000
+857,Guinea,1962,-13857
+858,Guinea-Bissau,2012,-10000
+859,Guinea-Bissau,2007,-25000
+860,Guinea-Bissau,2002,-30000
+861,Guinea-Bissau,1997,-30000
+862,Guinea-Bissau,1992,-30000
+863,Guinea-Bissau,1987,-28000
+864,Guinea-Bissau,1982,-30000
+865,Guinea-Bissau,1977,-28000
+866,Guinea-Bissau,1972,-15000
+867,Guinea-Bissau,1967,-7230
+868,Guinea-Bissau,1962,-20000
+869,Guyana,2012,-27278
+870,Guyana,2007,-34129
+871,Guyana,2002,-58713
+872,Guyana,1997,-54757
+873,Guyana,1992,-76825
+874,Guyana,1987,-134808
+875,Guyana,1982,-121338
+876,Guyana,1977,-53966
+877,Guyana,1972,-52068
+878,Guyana,1967,-43195
+879,Guyana,1962,2132
+880,Haiti,2012,-150000
+881,Haiti,2007,-138004
+882,Haiti,2002,-139999
+883,Haiti,1997,-144998
+884,Haiti,1992,-140001
+885,Haiti,1987,-135001
+886,Haiti,1982,-124999
+887,Haiti,1977,-97999
+888,Haiti,1972,-88000
+889,Haiti,1967,-58003
+890,Haiti,1962,-51997
+891,Heavily indebted poor countries (HIPC),2012,-2672487
+892,Heavily indebted poor countries (HIPC),2007,-3090205
+893,Heavily indebted poor countries (HIPC),2002,-1375699
+894,Heavily indebted poor countries (HIPC),1997,-2697152
+895,Heavily indebted poor countries (HIPC),1992,3134824
+896,Heavily indebted poor countries (HIPC),1987,-2700825
+897,Heavily indebted poor countries (HIPC),1982,-5433668
+898,Heavily indebted poor countries (HIPC),1977,-3255550
+899,Heavily indebted poor countries (HIPC),1972,-1164717
+900,Heavily indebted poor countries (HIPC),1967,-253406
+901,Heavily indebted poor countries (HIPC),1962,-274305
+902,High income,2012,15359563
+903,High income,2007,22686636
+904,High income,2002,18497281
+905,High income,1997,14460563
+906,High income,1992,11617847
+907,High income,1987,8638343
+908,High income,1982,7164586
+909,High income,1977,7928492
+910,High income,1972,7145777
+911,High income,1967,3635870
+912,High income,1962,3573488
+913,Honduras,2012,-80000
+914,Honduras,2007,-99997
+915,Honduras,2002,-149999
+916,Honduras,1997,-180003
+917,Honduras,1992,-119999
+918,Honduras,1987,-70001
+919,Honduras,1982,-50002
+920,Honduras,1977,-30000
+921,Honduras,1972,-50000
+922,Honduras,1967,-70000
+923,Honduras,1962,11000
+924,"Hong Kong SAR, China",2012,150000
+925,"Hong Kong SAR, China",2007,44716
+926,"Hong Kong SAR, China",2002,-41256
+927,"Hong Kong SAR, China",1997,550810
+928,"Hong Kong SAR, China",1992,155840
+929,"Hong Kong SAR, China",1987,160164
+930,"Hong Kong SAR, China",1982,82471
+931,"Hong Kong SAR, China",1977,401993
+932,"Hong Kong SAR, China",1972,66508
+933,"Hong Kong SAR, China",1967,-177802
+934,"Hong Kong SAR, China",1962,224481
+935,Hungary,2012,29999
+936,Hungary,2007,95789
+937,Hungary,2002,66163
+938,Hungary,1997,78562
+939,Hungary,1992,96796
+940,Hungary,1987,-99736
+941,Hungary,1982,-119461
+942,Hungary,1977,51236
+943,Hungary,1972,-5948
+944,Hungary,1967,-9921
+945,Hungary,1962,3984
+946,Iceland,2012,-378
+947,Iceland,2007,8041
+948,Iceland,2002,3894
+949,Iceland,1997,1994
+950,Iceland,1992,-1054
+951,Iceland,1987,646
+952,Iceland,1982,260
+953,Iceland,1977,-3929
+954,Iceland,1972,-1061
+955,Iceland,1967,-2757
+956,Iceland,1962,-732
+957,India,2012,-2598218
+958,India,2007,-2829378
+959,India,2002,-2206411
+960,India,1997,-716900
+961,India,1992,-677938
+962,India,1987,45147
+963,India,1982,483097
+964,India,1977,1132181
+965,India,1972,2118323
+966,India,1967,-245182
+967,India,1962,-85382
+968,Indonesia,2012,-700000
+969,Indonesia,2007,-1116994
+970,Indonesia,2002,-851310
+971,Indonesia,1997,-344962
+972,Indonesia,1992,-381823
+973,Indonesia,1987,-166738
+974,Indonesia,1982,-49566
+975,Indonesia,1977,-202747
+976,Indonesia,1972,-90360
+977,Indonesia,1967,-40261
+978,Indonesia,1962,-107486
+979,"Iran, Islamic Rep.",2012,-300001
+980,"Iran, Islamic Rep.",2007,-549266
+981,"Iran, Islamic Rep.",2002,-70307
+982,"Iran, Islamic Rep.",1997,615293
+983,"Iran, Islamic Rep.",1992,-2276004
+984,"Iran, Islamic Rep.",1987,1344377
+985,"Iran, Islamic Rep.",1982,1969420
+986,"Iran, Islamic Rep.",1977,419996
+987,"Iran, Islamic Rep.",1972,77633
+988,"Iran, Islamic Rep.",1967,51755
+989,"Iran, Islamic Rep.",1962,-7838
+990,Iraq,2012,548666
+991,Iraq,2007,-457332
+992,Iraq,2002,-266320
+993,Iraq,1997,-17859
+994,Iraq,1992,-154026
+995,Iraq,1987,-630184
+996,Iraq,1982,-199939
+997,Iraq,1977,-47791
+998,Iraq,1972,-8587
+999,Iraq,1967,-6877
+1000,Iraq,1962,-1862
+1001,Ireland,2012,-140001
+1002,Ireland,2007,198144
+1003,Ireland,2002,199949
+1004,Ireland,1997,83412
+1005,Ireland,1992,-10648
+1006,Ireland,1987,-115193
+1007,Ireland,1982,-50745
+1008,Ireland,1977,53058
+1009,Ireland,1972,37331
+1010,Ireland,1967,-50860
+1011,Ireland,1962,-109734
+1012,Israel,2012,19497
+1013,Israel,2007,273635
+1014,Israel,2002,102935
+1015,Israel,1997,245334
+1016,Israel,1992,456923
+1017,Israel,1987,65418
+1018,Israel,1982,2604
+1019,Israel,1977,62546
+1020,Israel,1972,165879
+1021,Israel,1967,72440
+1022,Israel,1962,208759
+1023,Italy,2012,528269
+1024,Italy,2007,1006308
+1025,Italy,2002,1624300
+1026,Italy,1997,223974
+1027,Italy,1992,152825
+1028,Italy,1987,-10058
+1029,Italy,1982,266352
+1030,Italy,1977,164927
+1031,Italy,1972,19396
+1032,Italy,1967,-231781
+1033,Italy,1962,-231607
+1034,Jamaica,2012,-97000
+1035,Jamaica,2007,-94999
+1036,Jamaica,2002,-91999
+1037,Jamaica,1997,-90002
+1038,Jamaica,1992,-109999
+1039,Jamaica,1987,-158694
+1040,Jamaica,1982,-80344
+1041,Jamaica,1977,-112462
+1042,Jamaica,1972,-103176
+1043,Jamaica,1967,-168398
+1044,Jamaica,1962,-147722
+1045,Japan,2012,350000
+1046,Japan,2007,445267
+1047,Japan,2002,622058
+1048,Japan,1997,16977
+1049,Japan,1992,451392
+1050,Japan,1987,-628168
+1051,Japan,1982,212063
+1052,Japan,1977,45014
+1053,Japan,1972,457099
+1054,Japan,1967,878290
+1055,Japan,1962,209163
+1056,Jordan,2012,229617
+1057,Jordan,2007,449998
+1058,Jordan,2002,-93897
+1059,Jordan,1997,-188262
+1060,Jordan,1992,401472
+1061,Jordan,1987,118198
+1062,Jordan,1982,81657
+1063,Jordan,1977,-80758
+1064,Jordan,1972,-29706
+1065,Jordan,1967,254352
+1066,Jordan,1962,35715
+1067,Kazakhstan,2012,159807
+1068,Kazakhstan,2007,-35196
+1069,Kazakhstan,2002,44530
+1070,Kazakhstan,1997,-1324984
+1071,Kazakhstan,1992,-1511745
+1072,Kazakhstan,1987,-656091
+1073,Kazakhstan,1982,-398259
+1074,Kazakhstan,1977,-313630
+1075,Kazakhstan,1972,-55461
+1076,Kazakhstan,1967,173343
+1077,Kazakhstan,1962,691681
+1078,Kenya,2012,-50000
+1079,Kenya,2007,-189330
+1080,Kenya,2002,25144
+1081,Kenya,1997,-21386
+1082,Kenya,1992,221569
+1083,Kenya,1987,5023
+1084,Kenya,1982,3805
+1085,Kenya,1977,-2930
+1086,Kenya,1972,-17915
+1087,Kenya,1967,-19535
+1088,Kenya,1962,-20000
+1089,Kiribati,2012,-2130
+1090,Kiribati,2007,-578
+1091,Kiribati,2002,-2039
+1092,Kiribati,1997,-2977
+1093,Kiribati,1992,-4598
+1094,Kiribati,1987,-766
+1095,Kiribati,1982,-3112
+1096,Kiribati,1977,-2576
+1097,Kiribati,1972,-1500
+1098,Kiribati,1967,-1274
+1099,Kiribati,1962,-1219
+1100,"Korea, Dem. Rep.",2012,0
+1101,"Korea, Dem. Rep.",2007,0
+1102,"Korea, Dem. Rep.",2002,0
+1103,"Korea, Dem. Rep.",1997,0
+1104,"Korea, Dem. Rep.",1992,0
+1105,"Korea, Dem. Rep.",1987,0
+1106,"Korea, Dem. Rep.",1982,0
+1107,"Korea, Dem. Rep.",1977,0
+1108,"Korea, Dem. Rep.",1972,0
+1109,"Korea, Dem. Rep.",1967,0
+1110,"Korea, Dem. Rep.",1962,0
+1111,"Korea, Rep.",2012,300000
+1112,"Korea, Rep.",2007,404715
+1113,"Korea, Rep.",2002,229017
+1114,"Korea, Rep.",1997,-293082
+1115,"Korea, Rep.",1992,-633048
+1116,"Korea, Rep.",1987,434981
+1117,"Korea, Rep.",1982,317043
+1118,"Korea, Rep.",1977,-165179
+1119,"Korea, Rep.",1972,-449729
+1120,"Korea, Rep.",1967,-389118
+1121,"Korea, Rep.",1962,-281388
+1122,Kuwait,2012,517500
+1123,Kuwait,2007,522000
+1124,Kuwait,2002,139000
+1125,Kuwait,1997,98500
+1126,Kuwait,1992,-580898
+1127,Kuwait,1987,110759
+1128,Kuwait,1982,95952
+1129,Kuwait,1977,112656
+1130,Kuwait,1972,109162
+1131,Kuwait,1967,137534
+1132,Kuwait,1962,153599
+1133,Kyrgyz Republic,2012,-113963
+1134,Kyrgyz Republic,2007,-76604
+1135,Kyrgyz Republic,2002,-172911
+1136,Kyrgyz Republic,1997,-32705
+1137,Kyrgyz Republic,1992,-271590
+1138,Kyrgyz Republic,1987,-120200
+1139,Kyrgyz Republic,1982,-39988
+1140,Kyrgyz Republic,1977,17954
+1141,Kyrgyz Republic,1972,34140
+1142,Kyrgyz Republic,1967,110071
+1143,Kyrgyz Republic,1962,116848
+1144,Lao PDR,2012,-117700
+1145,Lao PDR,2007,-117700
+1146,Lao PDR,2002,-175100
+1147,Lao PDR,1997,-131254
+1148,Lao PDR,1992,-45184
+1149,Lao PDR,1987,138
+1150,Lao PDR,1982,-35110
+1151,Lao PDR,1977,-198756
+1152,Lao PDR,1972,46
+1153,Lao PDR,1967,30
+1154,Lao PDR,1962,76
+1155,Latin America & Caribbean (all income levels),2012,-2081948
+1156,Latin America & Caribbean (all income levels),2007,-2675725
+1157,Latin America & Caribbean (all income levels),2002,-5546821
+1158,Latin America & Caribbean (all income levels),1997,-4325806
+1159,Latin America & Caribbean (all income levels),1992,-3239912
+1160,Latin America & Caribbean (all income levels),1987,-3509490
+1161,Latin America & Caribbean (all income levels),1982,-3443208
+1162,Latin America & Caribbean (all income levels),1977,-3146290
+1163,Latin America & Caribbean (all income levels),1972,-2220184
+1164,Latin America & Caribbean (all income levels),1967,-2001834
+1165,Latin America & Caribbean (all income levels),1962,-1400307
+1166,Latin America & Caribbean (developing only),2012,-2159855
+1167,Latin America & Caribbean (developing only),2007,-2640776
+1168,Latin America & Caribbean (developing only),2002,-5387792
+1169,Latin America & Caribbean (developing only),1997,-4294365
+1170,Latin America & Caribbean (developing only),1992,-3247230
+1171,Latin America & Caribbean (developing only),1987,-3343434
+1172,Latin America & Caribbean (developing only),1982,-3265079
+1173,Latin America & Caribbean (developing only),1977,-2963799
+1174,Latin America & Caribbean (developing only),1972,-1955477
+1175,Latin America & Caribbean (developing only),1967,-1724440
+1176,Latin America & Caribbean (developing only),1962,-1205979
+1177,Latvia,2012,-73442
+1178,Latvia,2007,-86168
+1179,Latvia,2002,-82692
+1180,Latvia,1997,-39042
+1181,Latvia,1992,-135622
+1182,Latvia,1987,42002
+1183,Latvia,1982,39884
+1184,Latvia,1977,41271
+1185,Latvia,1972,54668
+1186,Latvia,1967,69482
+1187,Latvia,1962,76276
+1188,Least developed countries: UN classification,2012,-4741314
+1189,Least developed countries: UN classification,2007,-8375096
+1190,Least developed countries: UN classification,2002,-4296546
+1191,Least developed countries: UN classification,1997,-3862918
+1192,Least developed countries: UN classification,1992,1732313
+1193,Least developed countries: UN classification,1987,-3756203
+1194,Least developed countries: UN classification,1982,-6377448
+1195,Least developed countries: UN classification,1977,-4350241
+1196,Least developed countries: UN classification,1972,-4824809
+1197,Least developed countries: UN classification,1967,-862527
+1198,Least developed countries: UN classification,1962,-886867
+1199,Lebanon,2012,1250000
+1200,Lebanon,2007,183370
+1201,Lebanon,2002,550110
+1202,Lebanon,1997,-29428
+1203,Lebanon,1992,90000
+1204,Lebanon,1987,-228040
+1205,Lebanon,1982,-214381
+1206,Lebanon,1977,-270000
+1207,Lebanon,1972,-10000
+1208,Lebanon,1967,-70002
+1209,Lebanon,1962,20000
+1210,Lesotho,2012,-19998
+1211,Lesotho,2007,-24418
+1212,Lesotho,2002,-34493
+1213,Lesotho,1997,-74427
+1214,Lesotho,1992,-46345
+1215,Lesotho,1987,-62682
+1216,Lesotho,1982,-25760
+1217,Lesotho,1977,-6538
+1218,Lesotho,1972,-24048
+1219,Lesotho,1967,-22400
+1220,Lesotho,1962,-25000
+1221,Liberia,2012,-20000
+1222,Liberia,2007,175585
+1223,Liberia,2002,-50000
+1224,Liberia,1997,450000
+1225,Liberia,1992,-300000
+1226,Liberia,1987,-400000
+1227,Liberia,1982,0
+1228,Liberia,1977,11949
+1229,Liberia,1972,10996
+1230,Liberia,1967,11013
+1231,Liberia,1962,7996
+1232,Libya,2012,-501692
+1233,Libya,2007,-82008
+1234,Libya,2002,-11679
+1235,Libya,1997,8736
+1236,Libya,1992,3965
+1237,Libya,1987,5490
+1238,Libya,1982,113380
+1239,Libya,1977,57534
+1240,Libya,1972,58665
+1241,Libya,1967,48002
+1242,Libya,1962,45891
+1243,Lithuania,2012,-169529
+1244,Lithuania,2007,-141659
+1245,Lithuania,2002,-83738
+1246,Lithuania,1997,-111160
+1247,Lithuania,1992,-100301
+1248,Lithuania,1987,36863
+1249,Lithuania,1982,43804
+1250,Lithuania,1977,38815
+1251,Lithuania,1972,37782
+1252,Lithuania,1967,26314
+1253,Lithuania,1962,24715
+1254,Low & middle income,2012,-15350665
+1255,Low & middle income,2007,-22729859
+1256,Low & middle income,2002,-18714994
+1257,Low & middle income,1997,-14329437
+1258,Low & middle income,1992,-11472337
+1259,Low & middle income,1987,-8501035
+1260,Low & middle income,1982,-7150407
+1261,Low & middle income,1977,-8095133
+1262,Low & middle income,1972,-7032007
+1263,Low & middle income,1967,-4094255
+1264,Low & middle income,1962,-3826648
+1265,Low income,2012,-1115618
+1266,Low income,2007,-2543110
+1267,Low income,2002,-983039
+1268,Low income,1997,-2112809
+1269,Low income,1992,749912
+1270,Low income,1987,-3088354
+1271,Low income,1982,-5714429
+1272,Low income,1977,-3163339
+1273,Low income,1972,-1271457
+1274,Low income,1967,-63036
+1275,Low income,1962,-510960
+1276,Lower middle income,2012,-15784815
+1277,Lower middle income,2007,-17104727
+1278,Lower middle income,2002,-14179486
+1279,Lower middle income,1997,-8651606
+1280,Lower middle income,1992,-5635256
+1281,Lower middle income,1987,-3343466
+1282,Lower middle income,1982,-1579249
+1283,Lower middle income,1977,-1846086
+1284,Lower middle income,1972,-2519524
+1285,Lower middle income,1967,-1858025
+1286,Lower middle income,1962,100180
+1287,Luxembourg,2012,48704
+1288,Luxembourg,2007,42279
+1289,Luxembourg,2002,14473
+1290,Luxembourg,1997,19940
+1291,Luxembourg,1992,20040
+1292,Luxembourg,1987,12831
+1293,Luxembourg,1982,2552
+1294,Luxembourg,1977,11846
+1295,Luxembourg,1972,15284
+1296,Luxembourg,1967,5918
+1297,Luxembourg,1962,8527
+1298,"Macao SAR, China",2012,35000
+1299,"Macao SAR, China",2007,56322
+1300,"Macao SAR, China",2002,29866
+1301,"Macao SAR, China",1997,20203
+1302,"Macao SAR, China",1992,18844
+1303,"Macao SAR, China",1987,37411
+1304,"Macao SAR, China",1982,32747
+1305,"Macao SAR, China",1977,-6011
+1306,"Macao SAR, China",1972,-7003
+1307,"Macao SAR, China",1967,36083
+1308,"Macao SAR, China",1962,19802
+1309,"Macedonia, FYR",2012,-4999
+1310,"Macedonia, FYR",2007,-4999
+1311,"Macedonia, FYR",2002,-15272
+1312,"Macedonia, FYR",1997,-4999
+1313,"Macedonia, FYR",1992,-133498
+1314,"Macedonia, FYR",1987,-98818
+1315,"Macedonia, FYR",1982,-72752
+1316,"Macedonia, FYR",1977,-14749
+1317,"Macedonia, FYR",1972,-61002
+1318,"Macedonia, FYR",1967,-28981
+1319,"Macedonia, FYR",1962,-40940
+1320,Madagascar,2012,-5000
+1321,Madagascar,2007,-5000
+1322,Madagascar,2002,-5000
+1323,Madagascar,1997,-6000
+1324,Madagascar,1992,-7000
+1325,Madagascar,1987,-8000
+1326,Madagascar,1982,-8000
+1327,Madagascar,1977,-30000
+1328,Madagascar,1972,-19000
+1329,Madagascar,1967,-8000
+1330,Madagascar,1962,0
+1331,Malawi,2012,-30000
+1332,Malawi,2007,-36820
+1333,Malawi,2002,-36820
+1334,Malawi,1997,-36820
+1335,Malawi,1992,-899584
+1336,Malawi,1987,913937
+1337,Malawi,1982,-28605
+1338,Malawi,1977,-33348
+1339,Malawi,1972,-52404
+1340,Malawi,1967,-61928
+1341,Malawi,1962,-61928
+1342,Malaysia,2012,450000
+1343,Malaysia,2007,652234
+1344,Malaysia,2002,490830
+1345,Malaysia,1997,397501
+1346,Malaysia,1992,298812
+1347,Malaysia,1987,435408
+1348,Malaysia,1982,158020
+1349,Malaysia,1977,-6950
+1350,Malaysia,1972,-31056
+1351,Malaysia,1967,-18722
+1352,Malaysia,1962,80684
+1353,Maldives,2012,-53
+1354,Maldives,2007,-53
+1355,Maldives,2002,-105
+1356,Maldives,1997,-1100
+1357,Maldives,1992,-3072
+1358,Maldives,1987,-2605
+1359,Maldives,1982,0
+1360,Maldives,1977,0
+1361,Maldives,1972,2415
+1362,Maldives,1967,-2904
+1363,Maldives,1962,-581
+1364,Mali,2012,-302449
+1365,Mali,2007,-100823
+1366,Mali,2002,-67110
+1367,Mali,1997,-141950
+1368,Mali,1992,-173489
+1369,Mali,1987,-480652
+1370,Mali,1982,-218064
+1371,Mali,1977,-174998
+1372,Mali,1972,-95585
+1373,Mali,1967,-98235
+1374,Mali,1962,-70243
+1375,Malta,2012,6252
+1376,Malta,2007,13525
+1377,Malta,2002,5760
+1378,Malta,1997,4316
+1379,Malta,1992,2893
+1380,Malta,1987,1159
+1381,Malta,1982,2880
+1382,Malta,1977,-4843
+1383,Malta,1972,-9682
+1384,Malta,1967,-12601
+1385,Malta,1962,-26384
+1386,Mauritania,2012,-20000
+1387,Mauritania,2007,-20000
+1388,Mauritania,2002,30000
+1389,Mauritania,1997,9900
+1390,Mauritania,1992,-14700
+1391,Mauritania,1987,-30300
+1392,Mauritania,1982,-16100
+1393,Mauritania,1977,-9700
+1394,Mauritania,1972,-5950
+1395,Mauritania,1967,-2760
+1396,Mauritania,1962,-1820
+1397,Mauritius,2012,0
+1398,Mauritius,2007,-12079
+1399,Mauritius,2002,-19372
+1400,Mauritius,1997,-8858
+1401,Mauritius,1992,-5611
+1402,Mauritius,1987,-35977
+1403,Mauritius,1982,-21632
+1404,Mauritius,1977,-20617
+1405,Mauritius,1972,-20463
+1406,Mauritius,1967,-29156
+1407,Mauritius,1962,-30869
+1408,Mexico,2012,-523585
+1409,Mexico,2007,-409596
+1410,Mexico,2002,-2841190
+1411,Mexico,1997,-1844707
+1412,Mexico,1992,-1302868
+1413,Mexico,1987,-1535834
+1414,Mexico,1982,-1519000
+1415,Mexico,1977,-1212001
+1416,Mexico,1972,-899999
+1417,Mexico,1967,-620001
+1418,Mexico,1962,-411004
+1419,"Micronesia, Fed. Sts.",2012,-8192
+1420,"Micronesia, Fed. Sts.",2007,-12132
+1421,"Micronesia, Fed. Sts.",2002,-12850
+1422,"Micronesia, Fed. Sts.",1997,-13618
+1423,"Micronesia, Fed. Sts.",1992,-2234
+1424,"Micronesia, Fed. Sts.",1987,-2461
+1425,"Micronesia, Fed. Sts.",1982,0
+1426,"Micronesia, Fed. Sts.",1977,-548
+1427,"Micronesia, Fed. Sts.",1972,-7997
+1428,"Micronesia, Fed. Sts.",1967,0
+1429,"Micronesia, Fed. Sts.",1962,0
+1430,Middle East & North Africa (all income levels),2012,-213002
+1431,Middle East & North Africa (all income levels),2007,5031419
+1432,Middle East & North Africa (all income levels),2002,1045034
+1433,Middle East & North Africa (all income levels),1997,18067
+1434,Middle East & North Africa (all income levels),1992,-1961791
+1435,Middle East & North Africa (all income levels),1987,906434
+1436,Middle East & North Africa (all income levels),1982,2711242
+1437,Middle East & North Africa (all income levels),1977,406941
+1438,Middle East & North Africa (all income levels),1972,-651693
+1439,Middle East & North Africa (all income levels),1967,-731461
+1440,Middle East & North Africa (all income levels),1962,-299675
+1441,Middle East & North Africa (developing only),2012,-3615666
+1442,Middle East & North Africa (developing only),2007,-1442624
+1443,Middle East & North Africa (developing only),2002,-1686956
+1444,Middle East & North Africa (developing only),1997,-752761
+1445,Middle East & North Africa (developing only),1992,-2219266
+1446,Middle East & North Africa (developing only),1987,-204318
+1447,Middle East & North Africa (developing only),1982,855807
+1448,Middle East & North Africa (developing only),1977,-1303996
+1449,Middle East & North Africa (developing only),1972,-1733109
+1450,Middle East & North Africa (developing only),1967,-1178377
+1451,Middle East & North Africa (developing only),1962,-801516
+1452,Middle income,2012,-14235047
+1453,Middle income,2007,-20186749
+1454,Middle income,2002,-17731955
+1455,Middle income,1997,-12216628
+1456,Middle income,1992,-12222249
+1457,Middle income,1987,-5412681
+1458,Middle income,1982,-1435978
+1459,Middle income,1977,-4931794
+1460,Middle income,1972,-5760550
+1461,Middle income,1967,-4031219
+1462,Middle income,1962,-3315688
+1463,Moldova,2012,-9529
+1464,Moldova,2007,-47911
+1465,Moldova,2002,-12079
+1466,Moldova,1997,-165309
+1467,Moldova,1992,-131953
+1468,Moldova,1987,-84531
+1469,Moldova,1982,-9185
+1470,Moldova,1977,-26414
+1471,Moldova,1972,55824
+1472,Moldova,1967,74449
+1473,Moldova,1962,100890
+1474,Mongolia,2012,-15001
+1475,Mongolia,2007,-15001
+1476,Mongolia,2002,-15001
+1477,Mongolia,1997,-52463
+1478,Mongolia,1992,-88432
+1479,Mongolia,1987,0
+1480,Mongolia,1982,0
+1481,Mongolia,1977,0
+1482,Mongolia,1972,0
+1483,Mongolia,1967,0
+1484,Mongolia,1962,0
+1485,Montenegro,2012,-2412
+1486,Montenegro,2007,-3108
+1487,Montenegro,2002,-7999
+1488,Montenegro,1997,-21588
+1489,Montenegro,1992,-20249
+1490,Montenegro,1987,-29965
+1491,Montenegro,1982,-2001
+1492,Montenegro,1977,-7401
+1493,Montenegro,1972,-2001
+1494,Montenegro,1967,-53773
+1495,Montenegro,1962,-2001
+1496,Morocco,2012,-310624
+1497,Morocco,2007,-577912
+1498,Morocco,2002,-694821
+1499,Morocco,1997,-559380
+1500,Morocco,1992,-466627
+1501,Morocco,1987,-418575
+1502,Morocco,1982,-320659
+1503,Morocco,1977,-293328
+1504,Morocco,1972,-497677
+1505,Morocco,1967,-477753
+1506,Morocco,1962,-240922
+1507,Mozambique,2012,-25000
+1508,Mozambique,2007,-50000
+1509,Mozambique,2002,37504
+1510,Mozambique,1997,-50000
+1511,Mozambique,1992,650000
+1512,Mozambique,1987,-1300000
+1513,Mozambique,1982,-373366
+1514,Mozambique,1977,87373
+1515,Mozambique,1972,-23500
+1516,Mozambique,1967,-23500
+1517,Mozambique,1962,-23500
+1518,Myanmar,2012,-474278
+1519,Myanmar,2007,-1466799
+1520,Myanmar,2002,-1372688
+1521,Myanmar,1997,-537998
+1522,Myanmar,1992,-699993
+1523,Myanmar,1987,-200000
+1524,Myanmar,1982,-54656
+1525,Myanmar,1977,0
+1526,Myanmar,1972,0
+1527,Myanmar,1967,0
+1528,Myanmar,1962,0
+1529,Namibia,2012,-1371
+1530,Namibia,2007,-50000
+1531,Namibia,2002,-50000
+1532,Namibia,1997,35497
+1533,Namibia,1992,23492
+1534,Namibia,1987,74791
+1535,Namibia,1982,-29139
+1536,Namibia,1977,-44585
+1537,Namibia,1972,-2825
+1538,Namibia,1967,-870
+1539,Namibia,1962,0
+1540,Nepal,2012,-372369
+1541,Nepal,2007,-1023896
+1542,Nepal,2002,-922843
+1543,Nepal,1997,-464703
+1544,Nepal,1992,76064
+1545,Nepal,1987,-216407
+1546,Nepal,1982,-101147
+1547,Nepal,1977,-41002
+1548,Nepal,1972,-5799
+1549,Nepal,1967,-21075
+1550,Nepal,1962,-70000
+1551,Netherlands,2012,110006
+1552,Netherlands,2007,55674
+1553,Netherlands,2002,144620
+1554,Netherlands,1997,153553
+1555,Netherlands,1992,220083
+1556,Netherlands,1987,133845
+1557,Netherlands,1982,79525
+1558,Netherlands,1977,180718
+1559,Netherlands,1972,179460
+1560,Netherlands,1967,54636
+1561,Netherlands,1962,11589
+1562,New Caledonia,2012,5660
+1563,New Caledonia,2007,4234
+1564,New Caledonia,2002,4771
+1565,New Caledonia,1997,5571
+1566,New Caledonia,1992,4778
+1567,New Caledonia,1987,475
+1568,New Caledonia,1982,-2085
+1569,New Caledonia,1977,-1222
+1570,New Caledonia,1972,6442
+1571,New Caledonia,1967,1106
+1572,New Caledonia,1962,3347
+1573,New Zealand,2012,7265
+1574,New Zealand,2007,62413
+1575,New Zealand,2002,134629
+1576,New Zealand,1997,42584
+1577,New Zealand,1992,118016
+1578,New Zealand,1987,-9418
+1579,New Zealand,1982,-2908
+1580,New Zealand,1977,-74794
+1581,New Zealand,1972,76678
+1582,New Zealand,1967,-2624
+1583,New Zealand,1962,42751
+1584,Nicaragua,2012,-135000
+1585,Nicaragua,2007,-155000
+1586,Nicaragua,2002,-173998
+1587,Nicaragua,1997,-145000
+1588,Nicaragua,1992,-120001
+1589,Nicaragua,1987,-150001
+1590,Nicaragua,1982,-110002
+1591,Nicaragua,1977,-58001
+1592,Nicaragua,1972,-37999
+1593,Nicaragua,1967,-18997
+1594,Nicaragua,1962,-14003
+1595,Niger,2012,-28497
+1596,Niger,2007,-28497
+1597,Niger,2002,-28497
+1598,Niger,1997,24056
+1599,Niger,1992,-2679
+1600,Niger,1987,-91917
+1601,Niger,1982,-92946
+1602,Niger,1977,-18138
+1603,Niger,1972,-13763
+1604,Niger,1967,-11545
+1605,Niger,1962,-11545
+1606,Nigeria,2012,-300000
+1607,Nigeria,2007,-300000
+1608,Nigeria,2002,-170000
+1609,Nigeria,1997,-95027
+1610,Nigeria,1992,-95769
+1611,Nigeria,1987,-91407
+1612,Nigeria,1982,-671640
+1613,Nigeria,1977,854649
+1614,Nigeria,1972,-38526
+1615,Nigeria,1967,-43347
+1616,Nigeria,1962,1021
+1617,North America,2012,6183750
+1618,North America,2007,6300158
+1619,North America,2002,6175859
+1620,North America,1997,9453948
+1621,North America,1992,5267705
+1622,North America,1987,4561110
+1623,North America,1982,3655389
+1624,North America,1977,4310838
+1625,North America,1972,3612021
+1626,North America,1967,2103693
+1627,North America,1962,1136723
+1628,Norway,2012,235665
+1629,Norway,2007,174001
+1630,Norway,2002,67400
+1631,Norway,1997,58773
+1632,Norway,1992,46903
+1633,Norway,1987,38715
+1634,Norway,1982,24805
+1635,Norway,1977,20728
+1636,Norway,1972,29273
+1637,Norway,1967,13867
+1638,Norway,1962,-2274
+1639,OECD members,2012,13138424
+1640,OECD members,2007,15773864
+1641,OECD members,2002,12775444
+1642,OECD members,1997,11452785
+1643,OECD members,1992,10140443
+1644,OECD members,1987,5681741
+1645,OECD members,1982,3526638
+1646,OECD members,1977,4356805
+1647,OECD members,1972,5119370
+1648,OECD members,1967,2664622
+1649,OECD members,1962,2531631
+1650,Oman,2012,1211000
+1651,Oman,2007,185500
+1652,Oman,2002,40452
+1653,Oman,1997,-207887
+1654,Oman,1992,93700
+1655,Oman,1987,11169
+1656,Oman,1982,81500
+1657,Oman,1977,76409
+1658,Oman,1972,25470
+1659,Oman,1967,-5000
+1660,Oman,1962,-10000
+1661,Pakistan,2012,-1081918
+1662,Pakistan,2007,-1296372
+1663,Pakistan,2002,-896486
+1664,Pakistan,1997,-728632
+1665,Pakistan,1992,-1128724
+1666,Pakistan,1987,139790
+1667,Pakistan,1982,1345233
+1668,Pakistan,1977,700000
+1669,Pakistan,1972,-138106
+1670,Pakistan,1967,-209978
+1671,Pakistan,1962,-93268
+1672,Panama,2012,28105
+1673,Panama,2007,22244
+1674,Panama,2002,16119
+1675,Panama,1997,9797
+1676,Panama,1992,1954
+1677,Panama,1987,-9395
+1678,Panama,1982,-12704
+1679,Panama,1977,-14077
+1680,Panama,1972,-12288
+1681,Panama,1967,-12692
+1682,Panama,1962,-11928
+1683,Papua New Guinea,2012,0
+1684,Papua New Guinea,2007,0
+1685,Papua New Guinea,2002,0
+1686,Papua New Guinea,1997,0
+1687,Papua New Guinea,1992,0
+1688,Papua New Guinea,1987,0
+1689,Papua New Guinea,1982,0
+1690,Papua New Guinea,1977,-8243
+1691,Papua New Guinea,1972,-7352
+1692,Papua New Guinea,1967,2993
+1693,Papua New Guinea,1962,-4317
+1694,Paraguay,2012,-86700
+1695,Paraguay,2007,-117299
+1696,Paraguay,2002,-46919
+1697,Paraguay,1997,-43861
+1698,Paraguay,1992,-31049
+1699,Paraguay,1987,-17242
+1700,Paraguay,1982,-21209
+1701,Paraguay,1977,-46331
+1702,Paraguay,1972,-58830
+1703,Paraguay,1967,-65825
+1704,Paraguay,1962,-70580
+1705,Peru,2012,-240000
+1706,Peru,2007,-489999
+1707,Peru,2002,-634999
+1708,Peru,1997,-540001
+1709,Peru,1992,-293999
+1710,Peru,1987,-185001
+1711,Peru,1982,-117998
+1712,Peru,1977,-98998
+1713,Peru,1972,-87999
+1714,Peru,1967,-50003
+1715,Peru,1962,-30000
+1716,Philippines,2012,-700000
+1717,Philippines,2007,-1829034
+1718,Philippines,2002,-1097371
+1719,Philippines,1997,-765620
+1720,Philippines,1992,-504878
+1721,Philippines,1987,-298756
+1722,Philippines,1982,-176673
+1723,Philippines,1977,-313636
+1724,Philippines,1972,-237734
+1725,Philippines,1967,-271845
+1726,Philippines,1962,364
+1727,Poland,2012,-73809
+1728,Poland,2007,5235
+1729,Poland,2002,38050
+1730,Poland,1997,-243932
+1731,Poland,1992,-240502
+1732,Poland,1987,-458986
+1733,Poland,1982,-81891
+1734,Poland,1977,-106595
+1735,Poland,1972,-170903
+1736,Poland,1967,-143114
+1737,Poland,1962,-10196
+1738,Portugal,2012,-140000
+1739,Portugal,2007,127025
+1740,Portugal,2002,178353
+1741,Portugal,1997,173604
+1742,Portugal,1992,149122
+1743,Portugal,1987,-147873
+1744,Portugal,1982,-66894
+1745,Portugal,1977,198629
+1746,Portugal,1972,108187
+1747,Portugal,1967,-701600
+1748,Portugal,1962,-547884
+1749,Puerto Rico,2012,-103537
+1750,Puerto Rico,2007,-138043
+1751,Puerto Rico,2002,-145704
+1752,Puerto Rico,1997,-30450
+1753,Puerto Rico,1992,-296
+1754,Puerto Rico,1987,-55192
+1755,Puerto Rico,1982,-48420
+1756,Puerto Rico,1977,-19579
+1757,Puerto Rico,1972,-41031
+1758,Puerto Rico,1967,-134255
+1759,Puerto Rico,1962,-91587
+1760,Qatar,2012,363500
+1761,Qatar,2007,854839
+1762,Qatar,2002,185343
+1763,Qatar,1997,42840
+1764,Qatar,1992,-22453
+1765,Qatar,1987,57517
+1766,Qatar,1982,102097
+1767,Qatar,1977,28315
+1768,Qatar,1972,34368
+1769,Qatar,1967,20912
+1770,Qatar,1962,16337
+1771,Romania,2012,-437201
+1772,Romania,2007,-874406
+1773,Romania,2002,-490472
+1774,Romania,1997,-610000
+1775,Romania,1992,-520001
+1776,Romania,1987,-200000
+1777,Romania,1982,-200000
+1778,Romania,1977,-99999
+1779,Romania,1972,-2001
+1780,Romania,1967,-2001
+1781,Romania,1962,-2001
+1782,Russian Federation,2012,1117884
+1783,Russian Federation,2007,2157349
+1784,Russian Federation,2002,1735324
+1785,Russian Federation,1997,2308220
+1786,Russian Federation,1992,2519717
+1787,Russian Federation,1987,906615
+1788,Russian Federation,1982,1107000
+1789,Russian Federation,1977,639801
+1790,Russian Federation,1972,-290289
+1791,Russian Federation,1967,-550619
+1792,Russian Federation,1962,-1394343
+1793,Rwanda,2012,-75001
+1794,Rwanda,2007,-75001
+1795,Rwanda,2002,-72601
+1796,Rwanda,1997,1210134
+1797,Rwanda,1992,-1347866
+1798,Rwanda,1987,29999
+1799,Rwanda,1982,-50002
+1800,Rwanda,1977,-20000
+1801,Rwanda,1972,-20000
+1802,Rwanda,1967,20000
+1803,Rwanda,1962,-140001
+1804,Samoa,2012,-12690
+1805,Samoa,2007,-15371
+1806,Samoa,2002,-15726
+1807,Samoa,1997,-17300
+1808,Samoa,1992,-13724
+1809,Samoa,1987,-18654
+1810,Samoa,1982,-17430
+1811,Samoa,1977,-17563
+1812,Samoa,1972,-13312
+1813,Samoa,1967,-5043
+1814,Samoa,1962,-1453
+1815,Sao Tome and Principe,2012,-5599
+1816,Sao Tome and Principe,2007,-5599
+1817,Sao Tome and Principe,2002,-5599
+1818,Sao Tome and Principe,1997,-8293
+1819,Sao Tome and Principe,1992,-5599
+1820,Sao Tome and Principe,1987,-5999
+1821,Sao Tome and Principe,1982,-5999
+1822,Sao Tome and Principe,1977,-1221
+1823,Sao Tome and Principe,1972,-2509
+1824,Sao Tome and Principe,1967,-744
+1825,Sao Tome and Principe,1962,-9152
+1826,Saudi Arabia,2012,850000
+1827,Saudi Arabia,2007,815000
+1828,Saudi Arabia,2002,945000
+1829,Saudi Arabia,1997,60187
+1830,Saudi Arabia,1992,-25000
+1831,Saudi Arabia,1987,590900
+1832,Saudi Arabia,1982,1391626
+1833,Saudi Arabia,1977,995676
+1834,Saudi Arabia,1972,491874
+1835,Saudi Arabia,1967,187007
+1836,Saudi Arabia,1962,125989
+1837,Senegal,2012,-99996
+1838,Senegal,2007,-166051
+1839,Senegal,2002,-151131
+1840,Senegal,1997,-209864
+1841,Senegal,1992,-70008
+1842,Senegal,1987,-60291
+1843,Senegal,1982,-85108
+1844,Senegal,1977,-134783
+1845,Senegal,1972,65586
+1846,Senegal,1967,86522
+1847,Senegal,1962,50002
+1848,Serbia,2012,-99999
+1849,Serbia,2007,-38215
+1850,Serbia,2002,-276331
+1851,Serbia,1997,-546911
+1852,Serbia,1992,178348
+1853,Seychelles,2012,-1551
+1854,Seychelles,2007,-1111
+1855,Seychelles,2002,2513
+1856,Seychelles,1997,-135
+1857,Seychelles,1992,625
+1858,Seychelles,1987,-5295
+1859,Seychelles,1982,-3099
+1860,Seychelles,1977,-200
+1861,Seychelles,1972,230
+1862,Seychelles,1967,-998
+1863,Seychelles,1962,-851
+1864,Sierra Leone,2012,-21000
+1865,Sierra Leone,2007,60000
+1866,Sierra Leone,2002,500000
+1867,Sierra Leone,1997,-150000
+1868,Sierra Leone,1992,-450000
+1869,Sierra Leone,1987,62745
+1870,Sierra Leone,1982,0
+1871,Sierra Leone,1977,0
+1872,Sierra Leone,1972,0
+1873,Sierra Leone,1967,0
+1874,Sierra Leone,1962,0
+1875,Singapore,2012,397936
+1876,Singapore,2007,449245
+1877,Singapore,2002,435595
+1878,Singapore,1997,255243
+1879,Singapore,1992,248927
+1880,Singapore,1987,119801
+1881,Singapore,1982,137811
+1882,Singapore,1977,14266
+1883,Singapore,1972,5889
+1884,Singapore,1967,-363
+1885,Singapore,1962,428
+1886,Slovak Republic,2012,1199
+1887,Slovak Republic,2007,9597
+1888,Slovak Republic,2002,1199
+1889,Slovak Republic,1997,-2964
+1890,Slovak Republic,1992,-15108
+1891,Slovak Republic,1987,-35312
+1892,Slovak Republic,1982,-34777
+1893,Slovak Republic,1977,-9696
+1894,Slovak Republic,1972,-15254
+1895,Slovak Republic,1967,-57838
+1896,Slovak Republic,1962,-26427
+1897,Slovenia,2012,4324
+1898,Slovenia,2007,49624
+1899,Slovenia,2002,14998
+1900,Slovenia,1997,1487
+1901,Slovenia,1992,-17461
+1902,Slovenia,1987,32609
+1903,Slovenia,1982,68363
+1904,Slovenia,1977,34686
+1905,Slovenia,1972,17942
+1906,Slovenia,1967,-14950
+1907,Slovenia,1962,-22059
+1908,Solomon Islands,2012,-11868
+1909,Solomon Islands,2007,-11896
+1910,Solomon Islands,2002,-4898
+1911,Solomon Islands,1997,-677
+1912,Solomon Islands,1992,-971
+1913,Solomon Islands,1987,-1832
+1914,Solomon Islands,1982,-1
+1915,Solomon Islands,1977,182
+1916,Solomon Islands,1972,2118
+1917,Solomon Islands,1967,2188
+1918,Solomon Islands,1962,2348
+1919,Somalia,2012,-400000
+1920,Somalia,2007,-350000
+1921,Somalia,2002,-200000
+1922,Somalia,1997,-100004
+1923,Somalia,1992,-893365
+1924,Somalia,1987,-632286
+1925,Somalia,1982,-832045
+1926,Somalia,1977,1587565
+1927,Somalia,1972,-6
+1928,Somalia,1967,1489
+1929,Somalia,1962,-1046
+1930,South Africa,2012,600000
+1931,South Africa,2007,1402640
+1932,South Africa,2002,1072076
+1933,South Africa,1997,158911
+1934,South Africa,1992,804595
+1935,South Africa,1987,-133363
+1936,South Africa,1982,175112
+1937,South Africa,1977,73316
+1938,South Africa,1972,231569
+1939,South Africa,1967,200939
+1940,South Africa,1962,115210
+1941,South Asia,2012,-6280804
+1942,South Asia,2007,-9901386
+1943,South Asia,2002,-5336232
+1944,South Asia,1997,-3508471
+1945,South Asia,1992,-701580
+1946,South Asia,1987,-1873468
+1947,South Asia,1982,-2923138
+1948,South Asia,1977,-650272
+1949,South Asia,1972,-1196421
+1950,South Asia,1967,-689461
+1951,South Asia,1962,-454109
+1952,Spain,2012,-593069
+1953,Spain,2007,2250005
+1954,Spain,2002,2829228
+1955,Spain,1997,896019
+1956,Spain,1992,319268
+1957,Spain,1987,-67671
+1958,Spain,1982,-43291
+1959,Spain,1977,76903
+1960,Spain,1972,96990
+1961,Spain,1967,-145936
+1962,Spain,1962,-193807
+1963,Sri Lanka,2012,-484772
+1964,Sri Lanka,2007,-520065
+1965,Sri Lanka,2002,-449480
+1966,Sri Lanka,1997,-461684
+1967,Sri Lanka,1992,-255780
+1968,Sri Lanka,1987,-137440
+1969,Sri Lanka,1982,-395500
+1970,Sri Lanka,1977,-237500
+1971,Sri Lanka,1972,-145000
+1972,Sri Lanka,1967,-38500
+1973,Sri Lanka,1962,-47500
+1974,St. Lucia,2012,40
+1975,St. Lucia,2007,2850
+1976,St. Lucia,2002,-227
+1977,St. Lucia,1997,-948
+1978,St. Lucia,1992,-4806
+1979,St. Lucia,1987,-4262
+1980,St. Lucia,1982,-8141
+1981,St. Lucia,1977,-8932
+1982,St. Lucia,1972,-9649
+1983,St. Lucia,1967,-7697
+1984,St. Lucia,1962,-9372
+1985,St. Vincent and the Grenadines,2012,-5000
+1986,St. Vincent and the Grenadines,2007,-5122
+1987,St. Vincent and the Grenadines,2002,-5200
+1988,St. Vincent and the Grenadines,1997,-7948
+1989,St. Vincent and the Grenadines,1992,-8682
+1990,St. Vincent and the Grenadines,1987,-7103
+1991,St. Vincent and the Grenadines,1982,-7345
+1992,St. Vincent and the Grenadines,1977,-7257
+1993,St. Vincent and the Grenadines,1972,-8792
+1994,St. Vincent and the Grenadines,1967,-10014
+1995,St. Vincent and the Grenadines,1962,-9326
+1996,Sub-Saharan Africa (all income levels),2012,-1688994
+1997,Sub-Saharan Africa (all income levels),2007,-496807
+1998,Sub-Saharan Africa (all income levels),2002,-532299
+1999,Sub-Saharan Africa (all income levels),1997,-1602370
+2000,Sub-Saharan Africa (all income levels),1992,1225981
+2001,Sub-Saharan Africa (all income levels),1987,-1288324
+2002,Sub-Saharan Africa (all income levels),1982,-1532915
+2003,Sub-Saharan Africa (all income levels),1977,-1062694
+2004,Sub-Saharan Africa (all income levels),1972,-939399
+2005,Sub-Saharan Africa (all income levels),1967,-145765
+2006,Sub-Saharan Africa (all income levels),1962,-289589
+2007,Sub-Saharan Africa (developing only),2012,-1687443
+2008,Sub-Saharan Africa (developing only),2007,-495696
+2009,Sub-Saharan Africa (developing only),2002,-534812
+2010,Sub-Saharan Africa (developing only),1997,-1602235
+2011,Sub-Saharan Africa (developing only),1992,1225356
+2012,Sub-Saharan Africa (developing only),1987,-1283029
+2013,Sub-Saharan Africa (developing only),1982,-1529816
+2014,Sub-Saharan Africa (developing only),1977,-1062494
+2015,Sub-Saharan Africa (developing only),1972,-939629
+2016,Sub-Saharan Africa (developing only),1967,-144767
+2017,Sub-Saharan Africa (developing only),1962,-288738
+2018,Sudan,2012,-800000
+2019,Sudan,2007,-500000
+2020,Sudan,2002,-430000
+2021,Sudan,1997,-490000
+2022,Sudan,1992,1350000
+2023,Sudan,1987,150000
+2024,Sudan,1982,220000
+2025,Sudan,1977,180000
+2026,Sudan,1972,20000
+2027,Sudan,1967,0
+2028,Sudan,1962,0
+2029,Suriname,2012,-5000
+2030,Suriname,2007,-5675
+2031,Suriname,2002,-22142
+2032,Suriname,1997,-2402
+2033,Suriname,1992,-3342
+2034,Suriname,1987,-4845
+2035,Suriname,1982,-31771
+2036,Suriname,1977,-40352
+2037,Suriname,1972,-56820
+2038,Suriname,1967,-13862
+2039,Suriname,1962,-11050
+2040,Swaziland,2012,-6000
+2041,Swaziland,2007,-6000
+2042,Swaziland,2002,-46077
+2043,Swaziland,1997,-12000
+2044,Swaziland,1992,-38243
+2045,Swaziland,1987,17149
+2046,Swaziland,1982,-14496
+2047,Swaziland,1977,-9472
+2048,Swaziland,1972,-7872
+2049,Swaziland,1967,-9472
+2050,Swaziland,1962,-9908
+2051,Sweden,2012,272626
+2052,Sweden,2007,262453
+2053,Sweden,2002,141723
+2054,Sweden,1997,58470
+2055,Sweden,1992,156460
+2056,Sweden,1987,134569
+2057,Sweden,1982,29799
+2058,Sweden,1977,88567
+2059,Sweden,1972,18798
+2060,Sweden,1967,130980
+2061,Sweden,1962,80351
+2062,Switzerland,2012,382267
+2063,Switzerland,2007,344872
+2064,Switzerland,2002,186125
+2065,Switzerland,1997,65218
+2066,Switzerland,1992,247406
+2067,Switzerland,1987,130857
+2068,Switzerland,1982,81040
+2069,Switzerland,1977,-135365
+2070,Switzerland,1972,25185
+2071,Switzerland,1967,92978
+2072,Switzerland,1962,276181
+2073,Syrian Arab Republic,2012,-4029996
+2074,Syrian Arab Republic,2007,370000
+2075,Syrian Arab Republic,2002,-379910
+2076,Syrian Arab Republic,1997,-130000
+2077,Syrian Arab Republic,1992,-70000
+2078,Syrian Arab Republic,1987,-146501
+2079,Syrian Arab Republic,1982,-87001
+2080,Syrian Arab Republic,1977,-161672
+2081,Syrian Arab Republic,1972,-81501
+2082,Syrian Arab Republic,1967,-16000
+2083,Syrian Arab Republic,1962,-16000
+2084,Tajikistan,2012,-117382
+2085,Tajikistan,2007,-65435
+2086,Tajikistan,2002,-96542
+2087,Tajikistan,1997,-324793
+2088,Tajikistan,1992,-289263
+2089,Tajikistan,1987,-37962
+2090,Tajikistan,1982,-21870
+2091,Tajikistan,1977,-5749
+2092,Tajikistan,1972,28954
+2093,Tajikistan,1967,34640
+2094,Tajikistan,1962,77739
+2095,Tanzania,2012,-199999
+2096,Tanzania,2007,-265317
+2097,Tanzania,2002,-295952
+2098,Tanzania,1997,-205874
+2099,Tanzania,1992,591285
+2100,Tanzania,1987,68208
+2101,Tanzania,1982,37181
+2102,Tanzania,1977,-22250
+2103,Tanzania,1972,118989
+2104,Tanzania,1967,36024
+2105,Tanzania,1962,26997
+2106,Thailand,2012,100000
+2107,Thailand,2007,-858537
+2108,Thailand,2002,1102862
+2109,Thailand,1997,695804
+2110,Thailand,1992,-807534
+2111,Thailand,1987,513675
+2112,Thailand,1982,341913
+2113,Thailand,1977,287226
+2114,Thailand,1972,402578
+2115,Thailand,1967,0
+2116,Thailand,1962,0
+2117,Timor-Leste,2012,-50004
+2118,Timor-Leste,2007,-104946
+2119,Timor-Leste,2002,12
+2120,Timor-Leste,1997,-156056
+2121,Timor-Leste,1992,-4186
+2122,Timor-Leste,1987,-4850
+2123,Timor-Leste,1982,10300
+2124,Timor-Leste,1977,-93784
+2125,Timor-Leste,1972,2242
+2126,Timor-Leste,1967,864
+2127,Timor-Leste,1962,670
+2128,Togo,2012,-9994
+2129,Togo,2007,-9994
+2130,Togo,2002,-9994
+2131,Togo,1997,-30000
+2132,Togo,1992,-95003
+2133,Togo,1987,-20000
+2134,Togo,1982,50001
+2135,Togo,1977,-100000
+2136,Togo,1972,-49999
+2137,Togo,1967,138923
+2138,Togo,1962,-77885
+2139,Tonga,2012,-8078
+2140,Tonga,2007,-8196
+2141,Tonga,2002,-8129
+2142,Tonga,1997,-8701
+2143,Tonga,1992,-11082
+2144,Tonga,1987,-10902
+2145,Tonga,1982,-12542
+2146,Tonga,1977,-7889
+2147,Tonga,1972,-7635
+2148,Tonga,1967,-3147
+2149,Tonga,1962,103
+2150,Trinidad and Tobago,2012,-5000
+2151,Trinidad and Tobago,2007,-11303
+2152,Trinidad and Tobago,2002,-13159
+2153,Trinidad and Tobago,1997,-32545
+2154,Trinidad and Tobago,1992,-31973
+2155,Trinidad and Tobago,1987,-45071
+2156,Trinidad and Tobago,1982,-34278
+2157,Trinidad and Tobago,1977,-30858
+2158,Trinidad and Tobago,1972,-29357
+2159,Trinidad and Tobago,1967,-61563
+2160,Trinidad and Tobago,1962,-57936
+2161,Tunisia,2012,-32941
+2162,Tunisia,2007,-32941
+2163,Tunisia,2002,-139045
+2164,Tunisia,1997,-36804
+2165,Tunisia,1992,140341
+2166,Tunisia,1987,48999
+2167,Tunisia,1982,85582
+2168,Tunisia,1977,-72068
+2169,Tunisia,1972,-97065
+2170,Tunisia,1967,-96523
+2171,Tunisia,1962,-142495
+2172,Turkey,2012,2000003
+2173,Turkey,2007,-50000
+2174,Turkey,2002,-100002
+2175,Turkey,1997,-149998
+2176,Turkey,1992,-200001
+2177,Turkey,1987,-150000
+2178,Turkey,1982,-77591
+2179,Turkey,1977,-367998
+2180,Turkey,1972,-314799
+2181,Turkey,1967,-319769
+2182,Turkey,1962,-259169
+2183,Turkmenistan,2012,-25001
+2184,Turkmenistan,2007,-57048
+2185,Turkmenistan,2002,-114454
+2186,Turkmenistan,1997,-60324
+2187,Turkmenistan,1992,43633
+2188,Turkmenistan,1987,-34319
+2189,Turkmenistan,1982,-25116
+2190,Turkmenistan,1977,16341
+2191,Turkmenistan,1972,31549
+2192,Turkmenistan,1967,36429
+2193,Turkmenistan,1962,36261
+2194,Uganda,2012,-150000
+2195,Uganda,2007,-135000
+2196,Uganda,2002,-5000
+2197,Uganda,1997,-45737
+2198,Uganda,1992,119995
+2199,Uganda,1987,233366
+2200,Uganda,1982,-115340
+2201,Uganda,1977,-166660
+2202,Uganda,1972,-240530
+2203,Uganda,1967,53330
+2204,Uganda,1962,125200
+2205,Ukraine,2012,195000
+2206,Ukraine,2007,235195
+2207,Ukraine,2002,-165445
+2208,Ukraine,1997,-462264
+2209,Ukraine,1992,74421
+2210,Ukraine,1987,0
+2211,Ukraine,1982,189092
+2212,Ukraine,1977,104383
+2213,Ukraine,1972,209851
+2214,Ukraine,1967,267629
+2215,Ukraine,1962,454164
+2216,United Arab Emirates,2012,405000
+2217,United Arab Emirates,2007,3493000
+2218,United Arab Emirates,2002,1180000
+2219,United Arab Emirates,1997,484452
+2220,United Arab Emirates,1992,326830
+2221,United Arab Emirates,1987,260931
+2222,United Arab Emirates,1982,175581
+2223,United Arab Emirates,1977,391216
+2224,United Arab Emirates,1972,245222
+2225,United Arab Emirates,1967,53823
+2226,United Arab Emirates,1962,37882
+2227,United Kingdom,2012,900000
+2228,United Kingdom,2007,1523939
+2229,United Kingdom,2002,968350
+2230,United Kingdom,1997,498998
+2231,United Kingdom,1992,205443
+2232,United Kingdom,1987,98758
+2233,United Kingdom,1982,-97495
+2234,United Kingdom,1977,39119
+2235,United Kingdom,1972,106415
+2236,United Kingdom,1967,-84853
+2237,United Kingdom,1962,142563
+2238,United States,2012,5007887
+2239,United States,2007,5070253
+2240,United States,2002,5149157
+2241,United States,1997,8692337
+2242,United States,1992,4568941
+2243,United States,1987,3686097
+2244,United States,1982,3279260
+2245,United States,1977,3872811
+2246,United States,1972,2840495
+2247,United States,1967,1495165
+2248,United States,1962,958657
+2249,Upper middle income,2012,1549768
+2250,Upper middle income,2007,-3082022
+2251,Upper middle income,2002,-3552469
+2252,Upper middle income,1997,-3565022
+2253,Upper middle income,1992,-6586993
+2254,Upper middle income,1987,-2069215
+2255,Upper middle income,1982,143271
+2256,Upper middle income,1977,-3085708
+2257,Upper middle income,1972,-3241026
+2258,Upper middle income,1967,-2173194
+2259,Upper middle income,1962,-3415868
+2260,Uruguay,2012,-30000
+2261,Uruguay,2007,-50000
+2262,Uruguay,2002,-104000
+2263,Uruguay,1997,-26000
+2264,Uruguay,1992,-20000
+2265,Uruguay,1987,-30000
+2266,Uruguay,1982,-30000
+2267,Uruguay,1977,-60000
+2268,Uruguay,1972,-136000
+2269,Uruguay,1967,-34000
+2270,Uruguay,1962,-6000
+2271,Uzbekistan,2012,-195001
+2272,Uzbekistan,2007,-290000
+2273,Uzbekistan,2002,-449997
+2274,Uzbekistan,1997,-290000
+2275,Uzbekistan,1992,-400002
+2276,Uzbekistan,1987,-388436
+2277,Uzbekistan,1982,-114387
+2278,Uzbekistan,1977,78675
+2279,Uzbekistan,1972,444273
+2280,Uzbekistan,1967,444080
+2281,Uzbekistan,1962,308297
+2282,Vanuatu,2012,603
+2283,Vanuatu,2007,1135
+2284,Vanuatu,2002,-502
+2285,Vanuatu,1997,-7087
+2286,Vanuatu,1992,-295
+2287,Vanuatu,1987,-2801
+2288,Vanuatu,1982,-3312
+2289,Vanuatu,1977,245
+2290,Vanuatu,1972,1439
+2291,Vanuatu,1967,-506
+2292,Vanuatu,1962,67
+2293,"Venezuela, RB",2012,-69121
+2294,"Venezuela, RB",2007,-28395
+2295,"Venezuela, RB",2002,-7648
+2296,"Venezuela, RB",1997,-2061
+2297,"Venezuela, RB",1992,-572
+2298,"Venezuela, RB",1987,891
+2299,"Venezuela, RB",1982,1373
+2300,"Venezuela, RB",1977,1094
+2301,"Venezuela, RB",1972,892
+2302,"Venezuela, RB",1967,3172
+2303,"Venezuela, RB",1962,18874
+2304,Vietnam,2012,-200002
+2305,Vietnam,2007,-877681
+2306,Vietnam,2002,-772336
+2307,Vietnam,1997,-216001
+2308,Vietnam,1992,-394236
+2309,Vietnam,1987,-332327
+2310,Vietnam,1982,-324942
+2311,Vietnam,1977,-813123
+2312,Vietnam,1972,0
+2313,Vietnam,1967,0
+2314,Vietnam,1962,0
+2315,Virgin Islands (U.S.),2012,-3604
+2316,Virgin Islands (U.S.),2007,-6191
+2317,Virgin Islands (U.S.),2002,-5272
+2318,Virgin Islands (U.S.),1997,-3936
+2319,Virgin Islands (U.S.),1992,-4618
+2320,Virgin Islands (U.S.),1987,-11156
+2321,Virgin Islands (U.S.),1982,-3492
+2322,Virgin Islands (U.S.),1977,1961
+2323,Virgin Islands (U.S.),1972,9407
+2324,Virgin Islands (U.S.),1967,3245
+2325,Virgin Islands (U.S.),1962,10270
+2326,West Bank and Gaza,2012,-43750
+2327,West Bank and Gaza,2007,-90000
+2328,West Bank and Gaza,2002,-190000
+2329,West Bank and Gaza,1997,70000
+2330,West Bank and Gaza,1992,35000
+2331,World,2012,0
+2332,World,2007,0
+2333,World,2002,0
+2334,World,1997,0
+2335,World,1992,0
+2336,World,1987,0
+2337,World,1982,0
+2338,World,1977,0
+2339,World,1972,0
+2340,World,1967,0
+2341,World,1962,0
+2342,"Yemen, Rep.",2012,-50000
+2343,"Yemen, Rep.",2007,0
+2344,"Yemen, Rep.",2002,-100000
+2345,"Yemen, Rep.",1997,-100000
+2346,"Yemen, Rep.",1992,672800
+2347,"Yemen, Rep.",1987,-50000
+2348,"Yemen, Rep.",1982,-50000
+2349,"Yemen, Rep.",1977,-75000
+2350,"Yemen, Rep.",1972,-353000
+2351,"Yemen, Rep.",1967,-245662
+2352,"Yemen, Rep.",1962,-100000
+2353,Zambia,2012,-34490
+2354,Zambia,2007,-124044
+2355,Zambia,2002,-93014
+2356,Zambia,1997,79445
+2357,Zambia,1992,-22952
+2358,Zambia,1987,2822
+2359,Zambia,1982,58483
+2360,Zambia,1977,17573
+2361,Zambia,1972,26662
+2362,Zambia,1967,-4245
+2363,Zambia,1962,2500
+2364,Zimbabwe,2012,-219922
+2365,Zimbabwe,2007,-307650
+2366,Zimbabwe,2002,-395554
+2367,Zimbabwe,1997,-200000
+2368,Zimbabwe,1992,-191803
+2369,Zimbabwe,1987,120505
+2370,Zimbabwe,1982,141524
+2371,Zimbabwe,1977,-101516
+2372,Zimbabwe,1972,-30360
+2373,Zimbabwe,1967,-27996
+2374,Zimbabwe,1962,-10001
